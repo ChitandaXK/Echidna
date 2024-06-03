@@ -1,32 +1,35 @@
 # Privacy Policy
 
-It is not the intention of this bot to compile personally identifiable information from users. However, by using this bot some of your information is stored internally on a private server. This document will summarize what information is collected and how it is used.
+## What data do we collect?
 
-By adding Echidna bot to a Discord server, you accept and understand the policies outlined in this document.
+We may collect and process any data generated from interacting with the bot or any other data relavant to the operation of the bot. All of the relevant data collected is in relation to your Discord User ID.
 
-# Data Collected
+## Examples of interacting with the bot
 
-## Command Requests
+  - Executing a command
+  - Clicking a button on a Discord message sent by the bot
+  - Set welcome and goodbye image
+  - Listening to audio provided by the bot
 
-As with any Discord bot, any content provided specifically in a command or interaction with this bot will be analyzed and may be stored for debugging. Storage of preferences is required for any functionality of the bot that is configurable. This includes:
+## Examples of data currently collected
 
-- Per-server configurations/settings
-- Any additional information provided directly in a command or conversation to the bot
+  - When executing a command
+      - Discord Guild, Channel, User and Message ID
+      - Command and Alias used to execute the command
+      - Slash command used to execute the command
+      - Arguments and Options used in the command
+  - When set welcome and goodbye image
+      - Discord Guild ID and Channel ID
+  - When members join and leave the server (if it has been set)
+      - Discord Guild, Channel and User
+  - When listening to a track
+      - Discord Guild and User ID
+      - Track ID
 
-## Command Contents
+## What purposes do we store this data for?
 
-The bot can see the contents of any command executed that is registered to it, as well as the content of any message sent via Direct Message or mentions the bot user directly. "Message" contents are not stored by this bot. Command contents may be stored temporarily in logs for debugging and testing, and stored in an internal database only if required for some functionality.
+All the data collected is used for diagnostic purposes or for additional bot features (e.g the statistics music, welcome and goodbye command).
 
-## Usage of Collected Information
+## Do we share this data with anyone else?
 
-Information collected is used purely to provide you with the services and functionality offered by the bot. It is not distributed directly to any third-party excepting Discord in the form of messages on that platform.
-
-## Data Storage and Security
-
-Stored data is located on a secured server using commercially-acceptable, secure database softwares MongoDB. No other users than myself (Chitanda) have access to the resources to directly access these databases. Although best efforts are made to protect any personal data, no method of electronic transmission or storage can be absolutely guaranteed to be secure. In the unlikely event of a data breach, and the nature of a Discord bot lacking a real direct notification system, any concern over data security would be reported on the bot Discord server.
-
-## Retainment of Personal Information
-
-As described in this document, very little personal information is collected. Any information that is collected is sought to be stored only as long as needed for the service.
-Discord user IDs are not removed from the database unless requested. To the best of my understanding, I would not consider Discord user IDs to be personally identifable. However, the deletion command specified below is still provided.
-User information, discord channel and server IDs and information linked to these IDs are deleted from the database when the bot is removed from a server. 
+No data collected is shared with any third-party service, the data is only accessible to you and in some cases (e.g message sent by the bot, welcome and goodbye command) other users in the form of bot features.
