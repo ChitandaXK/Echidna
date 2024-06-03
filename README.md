@@ -25,7 +25,7 @@ A raw [**command list**](https://github.com/ChitandaXK/Echidna/wiki/Command-List
 
 # Development 
 ![Typescripts](https://img.shields.io/badge/TypeScript-5.4.2-blue.svg?logo=TypeScript)
-![Commit](https://img.shields.io/github/last-commit/kabiiQ/fbk)
+![Commit](https://img.shields.io/github/last-commit/ChitandaKX/Echidna)
  
  ## [Privacy Policy](https://github.com/ChitandaKX/Echidna/blob/master/PRIVACY.md)
  ## [Terms of Service](https://github.com/ChitandaKX/Echidna/blob/master/TERMS.md)
