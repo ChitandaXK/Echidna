@@ -6,7 +6,7 @@
 
 **Public Discord music and utility bot with a range of commands**
 
-[![License](https://img.shields.io/github/license/ChitandaKX/Echidna)](https://github.com/ChitandaXK/Echidna/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ChitandaXK/Echidna)](https://github.com/ChitandaXK/Echidna/blob/main/LICENSE)
 [![Discord](https://discordapp.com/api/guilds/577498206250729472/embed.png)](https://discord.gg/XYEcjWNVwn)
 
 </div>
@@ -15,7 +15,7 @@
 
 Echidna is now available for invite and public use.
 
-#### [Invite link Echidna](https://discord.com/oauth2/authorize?client_id=715861631279562803&permissions=8&scope=bot+applications.commands)
+#### [Invite link Echidna](https://top.gg/bot/715861631279562803/invite)
 
 # Features
 Echidna is a general-purpose bot with a focus on **music commands** and **utility commands**. 
@@ -25,8 +25,8 @@ A raw [**command list**](https://github.com/ChitandaXK/Echidna/wiki/Command-List
 
 # Development 
 ![Typescripts](https://img.shields.io/badge/TypeScript-5.4.2-blue.svg?logo=TypeScript)
-![Commit](https://img.shields.io/github/last-commit/ChitandaKX/Echidna)
+![Commit](https://img.shields.io/github/last-commit/ChitandaXK/Echidna)
  
- ## [Privacy Policy](https://github.com/ChitandaKX/Echidna/blob/master/PRIVACY.md)
- ## [Terms of Service](https://github.com/ChitandaKX/Echidna/blob/master/TERMS.md)
+ ## [Privacy Policy](https://github.com/ChitandaXK/Echidna/blob/master/PRIVACY.md)
+ ## [Terms of Service](https://github.com/ChitandaXK/Echidna/blob/master/TERMS.md)
 
