@@ -4,7 +4,7 @@
 
 # @echidna
 
-**Public Discord music and utility bot with a range of commands**
+**Discord music, logging, utility bot you'll ever need.**
 
 [![Server](https://top.gg/api/widget/servers/715861631279562803.svg)](https://top.gg/bot/715861631279562803)
 [![Discord](https://discordapp.com/api/guilds/906844562499203122/embed.png)](https://discord.gg/rue65JQj)
