@@ -11,9 +11,9 @@
 
 </div>
 
-# Add FBK to your Discord server
+# Add Echidna to your Discord server
 
-FBK is now available for invite and public use.
+Echidna is now available for invite and public use.
 
 #### [Invite link Echidna](https://discord.com/oauth2/authorize?client_id=715861631279562803&permissions=8&scope=bot+applications.commands)
 
