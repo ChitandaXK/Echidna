@@ -6,8 +6,8 @@
 
 **Public Discord music and utility bot with a range of commands**
 
-[![License](https://img.shields.io/github/license/ChitandaXK/Echidna)](https://github.com/ChitandaXK/Echidna/blob/main/LICENSE)
-[![Discord](https://discordapp.com/api/guilds/577498206250729472/embed.png)](https://discord.gg/XYEcjWNVwn)
+[![Server](https://top.gg/api/widget/servers/715861631279562803.svg)](https://top.gg/bot/715861631279562803)
+[![Discord](https://discordapp.com/api/guilds/906844562499203122/embed.png)](https://discord.gg/XYEcjWNVwn)
 
 </div>
 
@@ -25,7 +25,7 @@ A raw [**command list**](https://github.com/ChitandaXK/Echidna/wiki/Command-List
 
 # Development 
 ![Typescripts](https://img.shields.io/badge/TypeScript-5.4.2-blue.svg?logo=TypeScript)
-![Commit](https://img.shields.io/github/last-commit/ChitandaXK/Echidna)
+![Commit](https://img.shields.io/github/last-commit/chitandaxk/echidna)
  
  ## [Privacy Policy](https://github.com/ChitandaXK/Echidna/blob/master/privacy-policy.md)
  ## [Terms of Service](https://github.com/ChitandaXK/Echidna/blob/master/terms-of-service.md)
