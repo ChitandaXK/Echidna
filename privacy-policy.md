@@ -21,6 +21,9 @@ To deliver core utility features and maintain server safety, the bot handles spe
 ## 4. Zero Third-Party Sharing
 None of the data processed by the bot is ever shared with, sold to, or distributed to any external third-party services or advertising networks. Information is exclusively presented back to authorized server personnel through standard interactive bot features, such as automated log cards or playback dashboards.
 
-## 5. Contact Information
+## 5. Updates to the Policy
+We may update this Privacy Policy from time to time to reflect changes in our features or platform rules. Any modifications will be posted immediately on this page, and users are encouraged to review this document periodically.
+
+## 6. Contact Information
 If you have any questions or privacy inquiries regarding this operational policy, please reach out to our development support team directly via:
 * Discord Profile: [@chitandax](https://discord.com/users/577495778747088896)
